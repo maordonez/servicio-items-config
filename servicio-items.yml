@@ -2,4 +2,4 @@ server:
   port: 8005
 
 configuracion:
-  texto: "Configurando entorno desarrollo"
+  texto: "Configurando ambiente por Defecto"
