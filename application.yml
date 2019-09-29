@@ -5,4 +5,4 @@ config:
         id: frontendapp
         secret: 12345
       jwt:
-        key: angun_codigo_secreto
+        key: algun_codigo_secreto
